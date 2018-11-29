@@ -1,0 +1,19 @@
+{
+  "name": "abelroute",
+  "version": "0.0.1",
+  "description": "--- A nodejs based webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelvii/abelRoute.git"
+  },
+  "author": "cwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelvii/abelRoute/issues"
+  },
+  "homepage": "https://github.com/abelvii/abelRoute#readme"
+}
